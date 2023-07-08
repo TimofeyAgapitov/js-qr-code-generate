@@ -1,1 +1,1 @@
-# js-qr-code-generate
+# Javascript QR Code Generator
